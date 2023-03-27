@@ -343,7 +343,7 @@ margin-inline: 30px;
      padding: 0;
      padding-right: 30vw;
    }
-   .serchicon {
+   .serchicon input{
      width: 40vw;
    }
    .pathname {
@@ -371,5 +371,8 @@ margin-inline: 30px;
    }
    .song-box {
      width: 60vw;
+   }
+   .arrow {
+     font-size: 2.5rem;
    }
   }
