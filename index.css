@@ -251,9 +251,9 @@ transition: .2s;
 }
 .music-img-active img{
   margin-top: 0;
-  height: 48px;
-  padding: 5px 0;
-  margin-inline: 5px;
+  height: 8vh;
+  padding: 1vh 0;
+  margin-inline: 1vh;
 }
 .music-info-active {
   display: block;
